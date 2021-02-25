@@ -1,4 +1,4 @@
-module common
+module github.com/wangyougui/wcs-common
 
 go 1.15
 
